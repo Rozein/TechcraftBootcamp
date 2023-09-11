@@ -1,0 +1,15 @@
+C:\InnovateTech\Bootcamp\LinqPractice\RunTimePolymorphism(Overridding)\bin\Debug\net6.0\RunTimePolymorphism(Overridding).exe
+C:\InnovateTech\Bootcamp\LinqPractice\RunTimePolymorphism(Overridding)\bin\Debug\net6.0\RunTimePolymorphism(Overridding).deps.json
+C:\InnovateTech\Bootcamp\LinqPractice\RunTimePolymorphism(Overridding)\bin\Debug\net6.0\RunTimePolymorphism(Overridding).runtimeconfig.json
+C:\InnovateTech\Bootcamp\LinqPractice\RunTimePolymorphism(Overridding)\bin\Debug\net6.0\RunTimePolymorphism(Overridding).dll
+C:\InnovateTech\Bootcamp\LinqPractice\RunTimePolymorphism(Overridding)\bin\Debug\net6.0\RunTimePolymorphism(Overridding).pdb
+C:\InnovateTech\Bootcamp\LinqPractice\RunTimePolymorphism(Overridding)\obj\Debug\net6.0\RunTimePolymorphism(Overridding).csproj.AssemblyReference.cache
+C:\InnovateTech\Bootcamp\LinqPractice\RunTimePolymorphism(Overridding)\obj\Debug\net6.0\RunTimePolymorphism(Overridding).GeneratedMSBuildEditorConfig.editorconfig
+C:\InnovateTech\Bootcamp\LinqPractice\RunTimePolymorphism(Overridding)\obj\Debug\net6.0\RunTimePolymorphism(Overridding).AssemblyInfoInputs.cache
+C:\InnovateTech\Bootcamp\LinqPractice\RunTimePolymorphism(Overridding)\obj\Debug\net6.0\RunTimePolymorphism(Overridding).AssemblyInfo.cs
+C:\InnovateTech\Bootcamp\LinqPractice\RunTimePolymorphism(Overridding)\obj\Debug\net6.0\RunTimePolymorphism(Overridding).csproj.CoreCompileInputs.cache
+C:\InnovateTech\Bootcamp\LinqPractice\RunTimePolymorphism(Overridding)\obj\Debug\net6.0\RunTimePolymorphism(Overridding).dll
+C:\InnovateTech\Bootcamp\LinqPractice\RunTimePolymorphism(Overridding)\obj\Debug\net6.0\refint\RunTimePolymorphism(Overridding).dll
+C:\InnovateTech\Bootcamp\LinqPractice\RunTimePolymorphism(Overridding)\obj\Debug\net6.0\RunTimePolymorphism(Overridding).pdb
+C:\InnovateTech\Bootcamp\LinqPractice\RunTimePolymorphism(Overridding)\obj\Debug\net6.0\RunTimePolymorphism(Overridding).genruntimeconfig.cache
+C:\InnovateTech\Bootcamp\LinqPractice\RunTimePolymorphism(Overridding)\obj\Debug\net6.0\ref\RunTimePolymorphism(Overridding).dll
