@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExpressionTree", "Expressio
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RunTimePolymorphism(Overridding)", "RunTimePolymorphism(Overridding)\RunTimePolymorphism(Overridding).csproj", "{9E719777-BE78-42B0-B44E-D6C9E52C1736}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delegates", "Delegates\Delegates.csproj", "{89AE6AE9-CEED-4F41-A6BE-67D1BC690E5F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Delegates", "Delegates\Delegates.csproj", "{89AE6AE9-CEED-4F41-A6BE-67D1BC690E5F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RunTime(UserApplication)", "RunTime(UserApplication)\RunTime(UserApplication).csproj", "{526A52F8-EB16-4CB9-85E4-F42A72B25B88}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{89AE6AE9-CEED-4F41-A6BE-67D1BC690E5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{89AE6AE9-CEED-4F41-A6BE-67D1BC690E5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{89AE6AE9-CEED-4F41-A6BE-67D1BC690E5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{526A52F8-EB16-4CB9-85E4-F42A72B25B88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{526A52F8-EB16-4CB9-85E4-F42A72B25B88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{526A52F8-EB16-4CB9-85E4-F42A72B25B88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{526A52F8-EB16-4CB9-85E4-F42A72B25B88}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
